@@ -15,7 +15,7 @@ Lite Type Converter is a simple program which converts between different types, 
 
 
 
-I wrote this to serve as a simple type conversion tool that I can use offline without having to google every time I need to use 1. I hope that it will find some use with you and that you will enjoy it :). 
+I wrote this as a simple type conversion tool that I can use offline without having to google every time I need to use one. I hope that it will find some use with you and that you will enjoy it :). 
 
 
 
