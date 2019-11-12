@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['Main.py'],
-             pathex=['C:\\Users\\Tkaixiang\\Documents\\Python Scripts\\9. Object Oriented Programing\\Type Converter Project'],
+             pathex=['C:\\Users\\Tkaixiang\\Documents\\GitHub\\Lite-Type-Converter'],
              binaries=[],
              datas=[],
              hiddenimports=[],
