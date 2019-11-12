@@ -60,7 +60,7 @@ However, do take note of the difference between **Byte Mode** and **Normal Mode*
 
 **<u>Byte Mode:</u>** 
 
-- **Reads input** as **bytes** separated by **<spaces>** (ASCII input need not have spaces)
+- **Reads input** as **bytes** separated by **spaces** (ASCII input need not have spaces)
 - **Output** is also in **bytes** in the type you specified
 - *All type conversions supported*
 
