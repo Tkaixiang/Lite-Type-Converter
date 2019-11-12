@@ -15,6 +15,8 @@ window.geometry("485x545") #Width x Height
 
 window.resizable(0, 0) #Fixed Window Size
 
+window.iconbitmap(r"C:\Users\Tkaixiang\Documents\Python Scripts\9. Object Oriented Programing\Type Converter Project\hexa.ico")
+
 Mode = ""
 
 #--Mode Info Label--
