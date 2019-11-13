@@ -1,7 +1,7 @@
 # Lite-Type-Converter
 A simple GUI program that converts between several types such as Hex, Binary, ASCII, Octal
 
-
+![Imgur](https://i.imgur.com/qMnrXgP.png)
 
 ## Introduction
 
