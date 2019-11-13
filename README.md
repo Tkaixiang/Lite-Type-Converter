@@ -34,13 +34,13 @@ P.S Constructive feedback is greatly appreciated ^^
 
 ## Usage
 
-For most users, the **"compiled" executable** can be **found under** the <u>"**dist**"</u> folder:
+For most users, download the **entire bundle folder** inside the <u>"**dist**"</u> folder:
 
 -  https://github.com/Tkaixiang/Lite-Type-Converter/tree/master/dist 
 
-- Simply download it and run it :)
+- Run the exe inside it "**Lite Type Converter 0.11.exe**"
 
-However, if you would like to run the **Original Python tkinter GUI** *(Which is admittedly faster)*:
+However, if you would like to run the **Original Python tkinter GUI** 
 
 - Clone the repository
 - Run **Main.py**
