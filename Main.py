@@ -3,6 +3,7 @@ import tkinter.ttk as ttk
 import ConverterFunctions
 import time
 import winsound
+import os
 
 #TO DO: Work on Byte Mode
 #Current state: To ASCII & From ASCII is all in byte mode
@@ -16,6 +17,20 @@ window.geometry("485x545") #Width x Height
 window.resizable(0, 0) #Fixed Window Size
 
 Mode = ""
+
+def resource_path(relative_path):
+    """ Get absolute path to resource, works for dev and for PyInstaller """
+    try:
+        # PyInstaller creates a temp folder and stores path in _MEIPASS
+        base_path = sys._MEIPASS
+    except Exception:
+        base_path = os.path.abspath(".")
+
+    return os.path.join(base_path, relative_path)
+
+Logo = resource_path("hexa.ico")
+
+window.iconbitmap(Logo)
 
 #--Mode Info Label--
 ModeLabel = Label(window, width=50, relief=GROOVE, font=("Microsoft Sans Serif", 10), text="")
